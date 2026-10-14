@@ -1,0 +1,8 @@
+{
+  "name": "Job Scam Detector",
+  "description": "Intelligent scam detection platform for job seekers to identify fraudulent offers, fake recruiter emails, check scams, and deceptive employment listings.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
